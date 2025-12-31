@@ -1,0 +1,20 @@
+bn RSHIFT 2 -> bo
+lf RSHIFT 1 -> ly
+fo RSHIFT 3 -> fq
+cj OR cp -> cq
+fo OR fz -> ga
+t OR s -> u
+lx -> a
+NOT ax -> ay
+he RSHIFT 2 -> hf
+lf OR lq -> lr
+lr AND lt -> lu
+dy OR ej -> ek
+1 AND cx -> cy
+hb LSHIFT 1 -> hv
+1 AND bh -> bi
+ih AND ij -> ik
+c LSHIFT 1 -> t
+ea AND eb -> ed
+km OR kn -> ko
+NOT bw -> bx
